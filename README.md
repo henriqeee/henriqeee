@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Henrique Engers
 
-- 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Spring Boot
 
 
