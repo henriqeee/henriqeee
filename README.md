@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henrique Engers
 
-- 🌱 Estudando Spring Boot
+- 🌱 Estudando Programação com Python e Django!
 
 
 <div align="center">
